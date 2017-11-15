@@ -7,3 +7,6 @@ def add(a, b):
 def joke():
     print("Mi az cukros és szobahőmérsekleten köt?")
     print("Nagymama.")
+
+def shout():
+    print("THIS IS SPARTA!")
